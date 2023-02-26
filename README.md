@@ -7,6 +7,6 @@
 <td width="50%">
 <div>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=bryopsida&row=2&theme=onedark&no-frame=true"/></a>
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=bryopsida&row=2&column=4&theme=darkhub&no-frame=true"/></a>
 </div>
 </td></tr></table>
