@@ -6,5 +6,5 @@
 </td>
 <td width="50%>
 
-<img width="100%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=bryopsida&row=4&theme=onedark&no-frame=true"/>
+<img width="100%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=bryopsida&row=2&theme=onedark&no-frame=true" />
 </td></tr></table>
